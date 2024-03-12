@@ -1,2 +1,4 @@
 # listaponteiros1
-Lista de ponteiros
+Lista de ponteiros criada por:
+Agostinho Brito
+José das Couves
