@@ -1,1 +1,2 @@
-josefina patinadora
+josefina patinadora e trapezista
+
